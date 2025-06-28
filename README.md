@@ -3,8 +3,7 @@
 I use arch and hyprland.
 
 
-Configuration of hypr, waybar
-
-
 [![hyprland](https://img.shields.io/badge/-Hyprland-rgb(0,0,0)?style=for-the-badge)](/HYPR.md)
 
+
+[![soft](https://img.shields.io/badge/-Soft-rgb(152,122,122)?style=for-the-badge)](/SOFT.md)
